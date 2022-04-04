@@ -1,0 +1,12 @@
+C:\Users\talat\Desktop\SerialPortGrapher-master\bin\x86\Release\Seri_Port_Terminal.exe
+C:\Users\talat\Desktop\SerialPortGrapher-master\bin\x86\Release\Seri_Port_Terminal.pdb
+C:\Users\talat\Desktop\SerialPortGrapher-master\bin\x86\Release\ZedGraph.dll
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Seri Port Terminal.csprojAssemblyReference.cache
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Seri Port Terminal.csproj.ResolveComReference.cache
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Seri_Port_Terminal.Form1.resources
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Seri_Port_Terminal.Properties.Resources.resources
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Seri Port Terminal.csproj.GenerateResource.cache
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Seri Port Terminal.csproj.CoreCompileInputs.cache
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Seri Port Terminal.csproj.CopyComplete
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Seri_Port_Terminal.exe
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Seri_Port_Terminal.pdb

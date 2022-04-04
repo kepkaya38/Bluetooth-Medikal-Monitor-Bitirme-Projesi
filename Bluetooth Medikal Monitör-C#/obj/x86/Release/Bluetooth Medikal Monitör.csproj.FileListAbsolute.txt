@@ -1,0 +1,26 @@
+C:\Users\talat\Desktop\SerialPortGrapher-master\bin\x86\Release\Seri_Port_Terminal.exe
+C:\Users\talat\Desktop\SerialPortGrapher-master\bin\x86\Release\Seri_Port_Terminal.pdb
+C:\Users\talat\Desktop\SerialPortGrapher-master\bin\x86\Release\ZedGraph.dll
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Bluetooth Medikal Monitör.csprojAssemblyReference.cache
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Bluetooth Medikal Monitör.csproj.ResolveComReference.cache
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Seri_Port_Terminal.Form1.resources
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Seri_Port_Terminal.Properties.Resources.resources
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Bluetooth Medikal Monitör.csproj.GenerateResource.cache
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Bluetooth Medikal Monitör.csproj.CoreCompileInputs.cache
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Bluetooth Medikal Monitör.csproj.CopyComplete
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Seri_Port_Terminal.exe
+C:\Users\talat\Desktop\SerialPortGrapher-master\obj\x86\Release\Seri_Port_Terminal.pdb
+C:\Users\talat\Desktop\Bluetooth Medikal Monitör\bin\x86\Release\Bluetooth Medikal Monitör.exe
+C:\Users\talat\Desktop\Bluetooth Medikal Monitör\bin\x86\Release\Bluetooth Medikal Monitör.pdb
+C:\Users\talat\Desktop\Bluetooth Medikal Monitör\bin\x86\Release\ZedGraph.dll
+C:\Users\talat\Desktop\Bluetooth Medikal Monitör\obj\x86\Release\Bluetooth Medikal Monitör.csprojAssemblyReference.cache
+C:\Users\talat\Desktop\Bluetooth Medikal Monitör\obj\x86\Release\Bluetooth Medikal Monitör.csproj.ResolveComReference.cache
+C:\Users\talat\Desktop\Bluetooth Medikal Monitör\obj\x86\Release\Bluetooth_Medikal_Monitör.Form1.resources
+C:\Users\talat\Desktop\Bluetooth Medikal Monitör\obj\x86\Release\Bluetooth_Medikal_Monitör.Properties.Resources.resources
+C:\Users\talat\Desktop\Bluetooth Medikal Monitör\obj\x86\Release\Bluetooth Medikal Monitör.csproj.GenerateResource.cache
+C:\Users\talat\Desktop\Bluetooth Medikal Monitör\obj\x86\Release\Bluetooth Medikal Monitör.csproj.CoreCompileInputs.cache
+C:\Users\talat\Desktop\Bluetooth Medikal Monitör\obj\x86\Release\Bluetooth Medikal Monitör.csproj.CopyComplete
+C:\Users\talat\Desktop\Bluetooth Medikal Monitör\obj\x86\Release\Bluetooth Medikal Monitör.exe
+C:\Users\talat\Desktop\Bluetooth Medikal Monitör\obj\x86\Release\Bluetooth Medikal Monitör.pdb
+C:\Users\talat\Desktop\Bluetooth Medikal Monitör\obj\x86\Release\Bluetooth_Medikal_Monitör.Form2.resources
+C:\Users\talat\Desktop\Bluetooth Medikal Monitör\obj\x86\Release\Bluetooth_Medikal_Monitör.Form3.resources
